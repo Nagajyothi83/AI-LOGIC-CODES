@@ -1,4 +1,6 @@
 n = int(input())
+
+#problem 1
 intervals = []
 while len(intervals) < n:
     line = input().strip()
